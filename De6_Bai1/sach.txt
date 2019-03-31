@@ -1,0 +1,4 @@
+1$Toán$Kim Đồng$70$5
+2$Vật Lý$Giáo Dục$80$10
+3$Hóa Học$Giáo Dục$50$10
+4$Sinh Học$Kim Đồng$60$10
